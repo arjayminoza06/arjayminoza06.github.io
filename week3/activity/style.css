@@ -1,0 +1,118 @@
+body{
+
+background-color: #16365d;
+background-position: center;
+
+}
+
+h1{
+
+color: aliceblue;
+text-align: right;
+}
+.uli1{
+    color: red;
+}
+.uli2{
+    color: plum;
+}
+
+.myspan{
+
+    color: red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+.myspan1{
+
+    color: yellow;
+    text-decoration: underline;
+}
+.myspan2{
+
+    color: blue;
+    font-weight: bold;
+}
+.myspan3{
+
+    color: rgb(5, 252, 17);
+    font-weight: bold;    
+}
+.myspan4{
+
+    color: blue;
+    font-weight: bold;    
+}
+.myspan5{
+
+    color: red;
+    font-weight: bold;    
+}
+.myspan6{
+
+    color: black;
+    font-weight: bold;  
+    background-color: rgb(10, 243, 10);  
+}
+
+.part1{
+
+    color: red;
+    text-align: center;
+ }
+ .part2{
+    text-align: left;
+    text-align: start;
+    background-color: black;
+    border-top: 1px solid red;
+    border-left: 1px solid red;
+    padding: 1%;
+    width: 50%;
+
+    
+    
+ }
+
+ h2{
+    color: rgb(5, 248, 5);
+ }
+ h3{
+    color:yellow;
+    width: 50%;
+    text-align: center;
+    border-bottom: 1px solid yellow;
+ }
+ 
+.p{
+   color : white;
+   text-align: left;
+ }
+.p1{
+    color : white;
+    text-align: center;
+ }
+.p2{
+    color : white;
+    text-align: right;
+ }
+ .p3{
+    color : white;
+    text-align: left;
+ }
+  .p4{
+    color : white;
+    text-align: left;
+    background-color: black;
+    border-left: 1px solid red;
+    border-right: 1px solid yellow;
+    font-style: italic;
+ }
+ .p5{
+    color : white;
+    text-align: left;
+    background-color: red;
+ }
+
+
+
+

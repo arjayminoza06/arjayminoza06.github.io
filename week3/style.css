@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Henny+Penny&display=swap');
+
+
+body{
+    background-image: url("images/full_moon_rising_over_salish_sea.webp");
+    
+    background-position: center;
+}
+
+h1{
+
+    color : red;
+    font-size : 100px;
+    background-color: aquamarine;
+    border-left:  solid greenyellow;
+    border-right:  solid red;
+    padding: 7px;
+    margin: 10% ;
+    font-family: "Henny Penny", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+
+}
+
+p{
+
+    color : white ;
+    font-weight: bold;
+    
+}
+
+.part1{
+
+    color : white;
+    font-weight : bold;
+    font-style : italic 
+}
+
+.part2{
+
+    color: white;
+    font-weight: bold;
+}
+
+.myspan{
+
+    color : purple;
+    text-decoration: underline;
+}
