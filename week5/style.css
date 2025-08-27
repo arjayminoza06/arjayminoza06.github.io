@@ -1,0 +1,74 @@
+.card{
+    width:25%;
+    border : 1px solid black;
+    border-radius:20px;
+    padding: 10px;
+    box-shadow: 7px 7px 0 0 skyblue;
+}
+.card:hover{
+    background-color: lightgrey;
+    box-shadow: 5px 5px 15px gray
+}
+.h2,p{
+    margin: 0;
+}
+
+.wrapper{
+    display: flex;
+    gap: 20PX;
+}
+.card-header{
+    display: flex;
+}
+.card-header{
+    margin-bottom: 10px;
+    padding-bottom:10px;
+    border-bottom: 1px solid black;
+}
+.bth{
+    border: none;
+    background: #7dd6ff;
+    background: linear-gradient(90deg, rgb(125, 255, 164) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    color:white;
+    padding:10px;
+    border-radius: 100px;
+}
+
+.bth1{
+    border: none;
+    background: #7dd6ff;
+    background: linear-gradient(90deg, rgb(125, 255, 164) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    color:white;
+    padding:10px;
+    border-radius: 100px;
+}
+
+.bth2{
+    border: none;
+    background: #7dd6ff;
+    background: linear-gradient(90deg, rgb(125, 255, 164) 0%, rgba(87, 199, 133, 1) 50%, rgba(237, 221, 83, 1) 100%);
+    color:white;
+    padding:10px;
+    border-radius: 100px;
+
+}
+
+.bth:hover{
+    background-color: darkkhaki;
+    background: linear-gradient(90deg, rgb(255, 244, 125) 0%, rgb(199, 137, 87) 50%, rgba(237, 221, 83, 1) 100%);
+    cursor:pointer;
+}
+
+.bth1:hover{
+    background-color: darkkhaki;
+    background: linear-gradient(90deg, rgb(255, 244, 125) 0%, rgb(199, 137, 87) 50%, rgba(237, 221, 83, 1) 100%);
+    cursor:pointer;
+}
+
+.bth2:hover{
+    background-color: darkkhaki;
+    background: linear-gradient(90deg, rgb(255, 244, 125) 0%, rgb(199, 137, 87) 50%, rgba(237, 221, 83, 1) 100%);
+    cursor:pointer;
+}
+
+

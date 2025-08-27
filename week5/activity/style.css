@@ -1,0 +1,50 @@
+.fascinate-regular {
+    font-family: 'Fascinate', system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body {
+  background: #f5f6fa;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.feature-main {
+  display: flex;
+  gap: 40px;
+  padding: 20px 40px;
+  background: #fff;
+  border-radius: 15px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);  
+}
+
+.feature:hover {
+  
+  box-shadow: 5px 5px 15px gray;
+  background-color: #004588;
+  color: white;
+}
+
+.feature {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  color: #1e293b;
+  padding: 20px;
+  border-radius: 10px;
+  
+}
+.feature span {
+  font-size: 26px;
+}
+
+.feature p {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+}
